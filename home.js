@@ -1,1 +1,1 @@
-console.log("majama")
+console.log("home")
