@@ -1,1 +1,1 @@
-console.log("lorem ispum")
+console.log("majama")
